@@ -1,0 +1,14 @@
+feature,importance
+Temperature difference [K],0.23374563234437487
+Rotational speed [rpm],0.2143494093847525
+Tool wear x torque,0.2100563619161817
+Type,0.16946515228449024
+Torque [Nm],0.03247896660760465
+Torque-speed interaction,0.025084094554832535
+Power [W],0.0245480673096929
+Tool wear ratio,0.011765510808487112
+Tool wear [min],0.01062991880657802
+High tool wear,0.0043387510606472945
+High temperature gap risk,0.0
+Process temperature [K],-0.0038552292178276825
+Air temperature [K],-0.005038689972184307
