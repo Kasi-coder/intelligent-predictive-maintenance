@@ -1,0 +1,7 @@
+{
+  "model_name": "Random Forest",
+  "threshold": 0.1,
+  "features": ["Type", "Air temperature [K]", "Process temperature [K]", "Rotational speed [rpm]", "Torque [Nm]", "Tool wear [min]", "Temperature difference [K]", "Power [W]", "Torque-speed interaction", "Tool wear x torque", "Tool wear ratio", "High tool wear", "High temperature gap risk"],
+  "target": "Machine failure",
+  "dataset": "AI4I 2020 Predictive Maintenance Dataset schema; reproducible synthetic fallback"
+}
